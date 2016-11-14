@@ -1,0 +1,26 @@
+{
+  "name": "chat",
+  "version": "0.0.1",
+  "description": "Realtime chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/dopamint25/chat.git"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "system"
+  ],
+  "author": "Andrea Michelle",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.14.0",
+    "gravatar": "~1.0.6",
+    "socket.io": "^1.0.6"
+  }
+}
