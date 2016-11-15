@@ -1,15 +1,7 @@
-/*------------- Reset browser differences ------------- */
-
-
-
 * {
 	padding: 0;
 	margin: 0;
 }
-
-
-/* ------------ Body styles ------------ */
-
 
 body {
 	background-color: #f0f1f3;
@@ -21,37 +13,6 @@ body {
 
 
 /* ------------ Header styles ------------ */
-
-
-
-/* ------ Home ------ */
-
-
-.homebanner {
-	height: 120px;
-	background-color: #3c4446;
-}
-
-.homebannertext {
-	text-align:center;
-	padding-top: 35px;
-	font-family: 'Open Sans Condensed',serif;
-	font-weight: bold;
-	color:white;
-}
-.homebannertext span {
-	color: #d6441b;
-}
-
-#logo {
-	text-decoration: none;
-	color:white;
-}
-#logo:visited {
-	color: white;
-}
-
-
 
 /* ------ Invite ------ */
 
@@ -75,14 +36,9 @@ body {
 }
 
 
-
-
 /* ------------ Section styles ------------ */
 
-
-
 /* ------ Home ------ */
-
 
 .homesection {
 	text-align:center;
